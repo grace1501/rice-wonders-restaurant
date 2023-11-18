@@ -6,6 +6,20 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+.page-title {
+    border: 1px solid #4e070c;
+    box-shadow: 5px 5px 2px rgba(100%, 50%, 50%, .33);
+}
+
+h2 {
+    background-color: #4e070c;
+    color: white;
+    padding: 12px;
+}
+h3 {
+    color: #189e01;
+}
+
 ul {
     list-style-type: none;
     margin: auto;
@@ -16,7 +30,7 @@ ul {
 
 li {
     float: left;
-    border: 1px solid #bbb;
+    border: 1px solid white;
 }
 
 li a {
@@ -39,7 +53,7 @@ div {
     /* border: 1px solid black; */
     text-align: center;
     margin: auto;
-    padding: 10px;
+    padding: 15px;
 }
 
 hr {
