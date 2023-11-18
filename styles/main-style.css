@@ -19,6 +19,7 @@ h2, button {
 button:hover {
     opacity: 0.75;
 }
+
 h3 {
     color: #189e01;
 }
@@ -53,7 +54,8 @@ li a:hover:not(.active) {
         }
 
 div {
-    border: 1px solid black;
+    /* border: 1px solid black; */
+    /* this is just to see the div block when designing */
     text-align: center;
     margin: auto;
     padding: 15px 50px;
