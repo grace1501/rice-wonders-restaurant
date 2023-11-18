@@ -16,6 +16,9 @@ h2, button {
     color: white;
     padding: 12px;
 }
+button:hover {
+    opacity: 0.75;
+}
 h3 {
     color: #189e01;
 }
@@ -84,4 +87,18 @@ img:hover {
 form {
     text-align: left;
 }
+
+/* #background-image {
+    
+} */
+
+/* #hero-section {
+    color: white;
+    text-shadow: 2px 2px 2px #4e070c;
+    font-size: 2rem;
+} */
+
+/* #business-description {
+    background-color: white;
+} */
 
